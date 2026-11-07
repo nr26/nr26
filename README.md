@@ -1,5 +1,16 @@
 
 <div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer;Creative+Technologist;Hackathon+Enthusiast;Building+Ideas+Into+Reality" />
+</p>
+  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</p>
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nr26&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
 
 # Hey, I'm Nikhil 👋
 
