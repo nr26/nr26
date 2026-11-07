@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer;Creative+Technologist;Hackathon+Enthusiast;Building+Ideas+Into+Reality" />
 </p>
   
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
-</p>
-
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nr26&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-</p>
-
 # Hey, I'm Nikhil 👋
 
 ### AI Developer • Full Stack Developer • Creative Technologist
@@ -19,6 +11,10 @@
 Building digital products, experimenting with AI and turning ideas into reality.
 
 [Portfolio](https://jansanket-1.vercel.app) • [LinkedIn](https://www.linkedin.com/in/nr268) • [YouTube](https://www.youtube.com/@solusnoob)
+ 
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nr26&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
 
 </div>
 
@@ -70,6 +66,10 @@ AI-powered background removal platform.
 - 🥈 2nd Place — Falling Sun Hackathon
 - 🥈 2nd Place — Sprint N Spawn
 - 🏅 5th Place — Matrix Delhi
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</p>
 
 ## 📊 GitHub Stats
 
